@@ -13,5 +13,6 @@
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004301.v1.0.1",
     "License": "CC0",
-    "HowToAcknowledge": "Wang, S., Zhang, Y., Zhang, X. et al. An fMRI Dataset for Concept Representation with Semantic Feature Annotations. Sci Data 9, 721 (2022). https://doi.org/10.1038/s41597-022-01840-2"
+    "HowToAcknowledge": "Wang, S., Zhang, Y., Zhang, X. et al. An fMRI Dataset for Concept Representation with Semantic Feature Annotations. Sci Data 9, 721 (2022). https://doi.org/10.1038/s41597-022-01840-2",
+    "ReferencesAndLinks": []
 }
